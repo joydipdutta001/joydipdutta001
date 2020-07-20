@@ -1,8 +1,8 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 || Developers||! <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 || Developers||! </h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-  
+
   [![Linkedin Badge](https://img.shields.io/badge/-JoydipDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydip-dutta-jd-b1878816b)](https://www.linkedin.com/in/joydip-dutta-jd-b1878816b) [![Gmail Badge](https://img.shields.io/badge/-joydip8764896142dutta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:joydip8764896142dutta@gmail.com)
 
 I am Joydip Dutta. I am from Puruliya, WestBengal, India and currently doing my B.Tech from Rajasthan Institute of Engineering and Technology,Jaipur,Rajasthan 🏫.
@@ -15,7 +15,11 @@ Talk to me about
 - Mobile application development using **Java**
 - Comfortable with **Firebase**
 - Solving Data structure and algorithm questions in **C++ and Python**
-
+<br></br>
+<br></br>
+<img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
+<br></br>
+<br></br>
 ## Contact Details !! 🤔
 - 🔭 I’m currently working on Cybotians
 - 🌱 I’m currently learning VLSI Design
