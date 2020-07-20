@@ -42,4 +42,4 @@ Talk to me about
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=joydipdutta001&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=joydipdutta001.joydipdutta001)
+
