@@ -17,7 +17,7 @@ Talk to me about
 - Solving Data structure and algorithm questions in **C++ and Python**
 <br></br>
 <br></br>
-<img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
+<img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width='200'>
 <br></br>
 <br></br>
 ## Contact Details !! 🤔
