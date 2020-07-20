@@ -1,18 +1,4 @@
-### Hi there 👋
-
-<!--
-**joydipdutta001/joydipdutta001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 || Developers||! <img src="https://assets8.lottiefiles.com/packages/lf20_AlMvHB.json" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 || Developers||! <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
