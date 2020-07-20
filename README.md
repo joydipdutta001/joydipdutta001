@@ -12,10 +12,10 @@ Talk to me about
 - Hardware Projects with **Arduino, Raspberry Pi, ESP8266, ESP32**
 - Hardwares and Circuits Designing with **Xilinx, VHDL, Proteus, MATLAB**
 - Backend development using **Android Studio (JAVA), Django**
-<img align='right' src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width='300'>
 - Mobile application development using **Java**
 - Comfortable with **Firebase**
 - Solving Data structure and algorithm questions in **C++ and Python**
+<img align='right' src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width='400' height='400'>
 <br></br>
 
 ## Contact Details !! 🤔
