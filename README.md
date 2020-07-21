@@ -18,7 +18,7 @@ Talk to me about
 <img align='right' src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width='400' height='300'>
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joydipdutta001&hide_langs_below=1)](https://github.com/joydipdutta001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joydipdutta001&hide_langs_below=1&theme=merko)](https://github.com/joydipdutta001/github-readme-stats)
 
 ## Contact Details !! 🤔
 - 🔭 I’m currently working at Cybotians
