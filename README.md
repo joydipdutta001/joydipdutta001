@@ -28,6 +28,6 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.
 - 💬 Ask me about anything an everything.
 
-![Joydip's github stats](https://github-readme-stats.vercel.app/api?username=joydipdutta001&hide=["issues"]&show_icons=true)
+![Joydip's github stats](https://github-readme-stats.vercel.app/api?username=joydipdutta001&hide=["issues"]&show_icons=true&theme=dark)
 
 
