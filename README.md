@@ -3,14 +3,14 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-JoydipDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydip-dutta-jd-b1878816b)](https://www.linkedin.com/in/joydip-dutta-jd-b1878816b) [![Gmail Badge](https://img.shields.io/badge/-joydip8764896142dutta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:joydip8764896142dutta@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-JoydipDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydip-dutta-jd-b1878816b)](https://www.linkedin.com/in/joydip-dutta-jd-b1878816b) [![Gmail Badge](https://img.shields.io/badge/-joydip8764896142dutta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydip8764896142dutta@gmail.com)](mailto:joydip8764896142dutta@gmail.com)
 
 I am Joydip Dutta. I am from Puruliya, WestBengal, India and currently doing my B.Tech from Rajasthan Institute of Engineering and Technology,Jaipur,Rajasthan 🏫.
 
 ## ⚡ Technologies
 Talk to me about
 - Hardware Projects with **Arduino, Raspberry Pi, ESP8266, ESP32**
-- Hardwares and Circuits Designing with **Xilinx, VHDL, Proteus, MATLAB**
+- Hardwares and Circuits Designing with **Xilinx, Proteus, MATLAB, Eagle(AutoDesk)**
 - Backend development using **Android Studio (JAVA), Django**
 - Mobile application development using **Java**
 - Comfortable with **Firebase**
@@ -21,9 +21,9 @@ Talk to me about
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joydipdutta001&hide_langs_below=1&theme=merko)](https://github.com/joydipdutta001/github-readme-stats)
 
 ## Contact Details !! 🤔
-- 🔭 I’m currently working at Cybotians
-- 🌱 I’m currently learning VLSI Design
-- 🤔 I’m looking for help with Morphed Image Detection
+- 🔭 I’m currently working at Cybotians.
+- 🌱 I’m currently learning PCB Designing with Autodesk Eagle.
+- 🤔 I’m looking for an Internship in Electronics.
 - 📫 Website: [cybotians.com](https://cybotians.com)
 - 🎯 Portfolio site: [Under Construction]()
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
