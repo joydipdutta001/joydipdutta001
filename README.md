@@ -19,8 +19,7 @@ Talk to me about
 
 
 
-## Contact Details !! 🤔
-- 🔭 I’m currently working at Cybotians.
+## Looking for my current status !! 🤔👀✌✌
 - 🌱 I’m currently learning PCB Designing with Autodesk Eagle.
 - 🤔 I’m looking for an Internship in Electronics.
 - 📫 Website: [cybotians.com](https://cybotians.com)
