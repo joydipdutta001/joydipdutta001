@@ -21,9 +21,8 @@ Talk to me about
 
 ## Looking for my current status !! 🤔👀✌✌
 - 🌱 I’m currently learning PCB Designing with Autodesk Eagle.
-- 🤔 I’m looking for an Internship in Electronics.
+- 🤔 Working on a start-up.(Interested person can contact me🙂.)
 - 📫 Website: [cybotians.com](https://cybotians.com)
-- 🎯 Portfolio site: [Under Construction]()
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
 - 💬 Ask me about anything an everything.
