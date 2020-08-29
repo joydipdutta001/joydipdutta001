@@ -20,7 +20,7 @@ Talk to me about
 
 
 ## Looking for my current status !! 🤔👀✌✌
-- 🌱 I’m currently learning PCB Designing with Autodesk Eagle.
+- 🌱 I’m currently learning Internet of Things.
 - 🤔 Working on a start-up.(Interested person can contact me🙂.)
 - 📫 Website: [cybotians.com](https://cybotians.com)
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
