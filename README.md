@@ -17,7 +17,7 @@ Talk to me about
 <img align='right' src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width='400' height='300'>
 <br></br>
 
-
+VISITORS --> ![](https://komarev.com/ghpvc/?username=joydipdutta001&color=red)
 
 ## Looking for my current status !! 🤔👀✌✌
 - 🌱 I’m currently learning AVR, MSP430 and STM32.
@@ -25,7 +25,6 @@ Talk to me about
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
 - 💬 Ask me about anything an everything.
-
 
 
 
