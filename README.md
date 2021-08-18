@@ -5,7 +5,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-JoydipDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydip-dutta-jd-b1878816b)](https://www.linkedin.com/in/joydip-dutta-b1878816b) [![Gmail Badge](https://img.shields.io/badge/-joydip8764896142dutta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydip8764896142dutta@gmail.com)](mailto:joydip8764896142dutta@gmail.com)
 
-I am Joydip Dutta. I am from Purulia, WestBengal, India and currently working @CircuitDigest as an Electronics Engineering Intern.
+I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working @CircuitDigest as an Electronics Engineering Intern.
 
 ## ⚡ Technologies
 Talk to me about
