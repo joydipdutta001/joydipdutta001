@@ -20,7 +20,7 @@ Talk to me about
 VISITORS --> ![](https://komarev.com/ghpvc/?username=joydipdutta001&color=red)
 
 ## Looking for my current status !! 🤔👀✌✌
-- 🌱 I’m currently learning STM8S, Touch Capacitive PCB Design
+- 🌱 I’m currently learning Yocto Project, RTOS-ESP32
 - 📫 Website: [cybotians.com](https://cybotians.com)
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
