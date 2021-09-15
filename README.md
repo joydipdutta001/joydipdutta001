@@ -1,4 +1,4 @@
-<h2>||!! Hello !!||</h2>
+<h2>|| 😃 HELLO VISITORS !!</h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -6,9 +6,9 @@
   [![Linkedin Badge](https://img.shields.io/badge/-JoydipDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydip-dutta-jd-b1878816b)](https://www.linkedin.com/in/joydip-dutta-b1878816b) [![Gmail Badge](https://img.shields.io/badge/-joydip8764896142dutta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydip8764896142dutta@gmail.com)](mailto:joydip8764896142dutta@gmail.com)
 
 I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working @Circuit-Digest as an Electronics Engineering Intern.
-
-## ⚡ My Technology Stacks
 <br></br>
+<h1>⚡ My Technology Stacks </h1>
+
 - Hardware Projects with **Arduino, Raspberry Pi, ESP8266, ESP32, STM8S, FPGAs, CPLDs**
 - Hardwares and Circuits Designing with **Xilinx, Proteus, MATLAB, Eagle(AutoDesk)**
 - Protocols: **UART, I2C, SPI, I2S**
