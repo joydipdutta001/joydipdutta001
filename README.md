@@ -7,10 +7,11 @@
 
 I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working @Circuit-Digest as an Electronics Engineering Intern.
 
-## ⚡ Technologies
-Talk to me about
-- Hardware Projects with **Arduino, Raspberry Pi, ESP8266, ESP32**
+## ⚡ My Technology Stacks
+<br></br>
+- Hardware Projects with **Arduino, Raspberry Pi, ESP8266, ESP32, STM8S, FPGAs, CPLDs**
 - Hardwares and Circuits Designing with **Xilinx, Proteus, MATLAB, Eagle(AutoDesk)**
+- Protocols: **UART, I2C, SPI, I2S**
 - Backend development (For Android App Development and Web develpoment) using **Android Studio (JAVA), Django**
 - Comfortable with **Firebase**
 - Solving Data structure and algorithm questions in **C++ and Python**
