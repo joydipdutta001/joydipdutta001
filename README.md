@@ -21,7 +21,7 @@ I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working 
 VISITORS --> ![](https://komarev.com/ghpvc/?username=joydipdutta001&color=red)
 
 ## Here is my Current Status !! ✌✌👀
-- 🌱 I’m currently learning Yocto Project, RTOS-ESP32
+- 🌱 I’m currently learning Yocto Project
 - 📫 Website: [cybotians.com](https://cybotians.com)
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
