@@ -5,7 +5,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-JoydipDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joydip-dutta-jd-b1878816b)](https://www.linkedin.com/in/joydip-dutta-b1878816b) [![Gmail Badge](https://img.shields.io/badge/-joydip8764896142dutta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydip8764896142dutta@gmail.com)](mailto:joydip8764896142dutta@gmail.com)
 
-I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working @Circuit-Digest as an Embedded Engineer.
+I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working @IITMadras as an Project Associate in Embedded System And Designs.
 <br></br>
 <h1>⚡ My Technology Stacks </h1>
 
@@ -21,7 +21,7 @@ I am Joydip Dutta. I am from Purulia, WestBengal, India. I am currently working 
 VISITORS --> ![](https://komarev.com/ghpvc/?username=joydipdutta001&color=red)
 
 ## Here is my Current Status !! ✌✌👀
-- 🌱 I’m currently learning Yocto Project
+- 🌱 I’m currently applying DSPs in FPGAs and Doing some research work in Microwave and Photonics.
 - 📫 Website: [cybotians.com](https://cybotians.com)
 - 🔔 Subscribe:- [Cybotians](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
